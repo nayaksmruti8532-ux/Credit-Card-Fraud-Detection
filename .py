@@ -36,7 +36,7 @@ from sklearn.metrics import (
 )
 
 RANDOM_STATE = 42
-DATA_PATH = "creditcard_dataset.csv"   # change if your file is elsewhere
+DATA_PATH = "creditcard_dataset.zip"  # change if your file is elsewhere
 
 
 # ----------------------------------------------------------------------
